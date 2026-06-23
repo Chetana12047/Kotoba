@@ -161,7 +161,7 @@ export function Navbar() {
               </SignUpButton>
             </>
           ) : (
-            <UserButton afterSignOutUrl="/" />
+            <UserButton />
           )}
         </div>
 
@@ -230,7 +230,7 @@ export function Navbar() {
               </>
             ) : (
               <div className="flex justify-center pt-2">
-                <UserButton afterSignOutUrl="/" />
+                <UserButton />
               </div>
             )}
           </div>
