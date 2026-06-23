@@ -2,9 +2,9 @@ import OpenAI from 'openai'
 import { NextResponse } from 'next/server'
 
 const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
+  apiKey: process.env.GROQ_API_KEY,
+  baseURL: "https://api.groq.com/openai/v1",
 })
-
 export async function POST(req: Request) {
   try {
     const body = await req.json()
