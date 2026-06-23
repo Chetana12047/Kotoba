@@ -14,6 +14,12 @@ The platform helps users learn Japanese through:
 
 ⸻
 
+🚀 Live Demo
+
+https://kotoba-kohl.vercel.app
+
+⸻
+
 ✨ Features
 
 * 🌸 Modern Japanese-inspired UI
@@ -35,7 +41,7 @@ The platform helps users learn Japanese through:
 * TypeScript
 * Tailwind CSS
 * Clerk Authentication
-* Groq API
+* Groq LLM API
 * Vercel
 
 ⸻
@@ -53,6 +59,12 @@ The platform helps users learn Japanese through:
 👩‍💻 Developer
 
 Developed by Chetana Ingle
+
+⸻
+
+🔗 GitHub Repository
+
+https://github.com/Chetana12047/Kotoba
 
 ⸻
 
