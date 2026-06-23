@@ -35,16 +35,15 @@ const notoSerifJp =
     ],
   })
 
-export const metadata: Metadata =
-  {
-    title:
-      'Kotoba — Learn Japanese Smarter',
+export const metadata: Metadata = {
+  title: 'Kotoba',
 
-    description:
-      'Kotoba is a modern Japanese learning platform with AI translation, kana practice, smart flashcards, quizzes, and culture lessons.',
+  description:
+    'Kotoba is a modern Japanese learning platform with AI translation, kana practice, smart flashcards, quizzes, and culture lessons.',
 
-    generator: 'v0.app',
-  }
+
+  generator: 'v0.app',
+}
 
 export const viewport: Viewport =
   {
