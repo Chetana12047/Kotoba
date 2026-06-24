@@ -62,12 +62,6 @@ Developed by Chetana Ingle
 
 ⸻
 
-🔗 GitHub Repository
-
-https://github.com/Chetana12047/Kotoba
-
-⸻
-
 📸 Preview
 
 AI-powered Japanese learning experience with elegant Japanese aesthetics and interactive learning modules.
